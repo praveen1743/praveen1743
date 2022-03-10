@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @praveen1743
+- 👋 Hi, I’m Praveen Jha,
+
 I have been developing web and mobile applications since 2013. In particular, I have experience in building apps for the IoT industry, shopping apps, messengers, mobile social networks.
 I can architect any application from scratch by following well-established development practices defined by the Android and iOS dev community and Google. I can also work in a team of developers with such development processes as code reviews, git branching models, issue tracking, etc. I have also supported and improved apps with legacy code.
 
